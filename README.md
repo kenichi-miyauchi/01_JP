@@ -4,7 +4,7 @@ Last Update: 2026-09-12
 
 ## 資料
 - [A4 1ページ概要](./A4_1-Page_01_An_Integrated_Approach_to_Addressing_Multiple_SDG_Challenges_JP.pdf)
-- [提案書全文（PDF）](./01_An_Integrated_Approach_to_Addressing_Multiple_SDG_Challenges_JP_Rev1.3.pdf)
+- [提案書全文(PDF)](./01_An_Integrated_Approach_to_Addressing_Multiple_SDG_Challenges_JP_Rev1.3.pdf)
 
 ## 安全で衛生な水の確保とアグロフォレストリーによる生計向上・児童労働抑止・CO2吸収の実現
 
